@@ -25,3 +25,4 @@ Public/
 .CFUserTextEncoding
 .zsh_history
 .zsh_sessions/
+.ssh/
